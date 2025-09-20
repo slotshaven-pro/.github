@@ -5,7 +5,7 @@ På dette sted finder man materiale til undervisningen i programmering B på Slo
 ## Pro2
 Materiale til PRO2.
 
-Repo: https://github.com/slotshaven-pro/
+Repo: https://github.com/slotshaven-pro/pro2
 
 ## Pro3
 Materiale til PRO3.
@@ -16,7 +16,7 @@ Repo: https://github.com/slotshaven-pro/webserver
 
 **Øvrigt materiale**
 
-Repo: https://github.com/slotshaven-pro/
+Repo: https://github.com/slotshaven-pro/pro3
 
 ## Markdown
 Al information er skrevet i markdown. 
