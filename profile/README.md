@@ -2,22 +2,8 @@
 
 På dette sted finder man materiale til undervisningen i programmering B på Slotshaven Gymnasium. 
 
-## Pro2
-Materiale til PRO2.
+### Materialer på GitHub
 
-Repo: https://github.com/slotshaven-pro/pro2
+[Øvelser, eksempler og guides](https://github.com/slotshaven-pro/pro/)
 
-## Pro3
-Materiale til PRO3.
-
-**Forløb: Webserver med flask**
-
-Repo: https://github.com/slotshaven-pro/webserver
-
-**Øvrigt materiale**
-
-Repo: https://github.com/slotshaven-pro/pro3
-
-## Markdown
-Al information er skrevet i markdown. 
-Læs mere om [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Forløb: Webserver med flask](https://github.com/slotshaven-pro/webserver/)
