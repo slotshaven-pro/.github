@@ -7,3 +7,5 @@ På dette sted finder man materiale til undervisningen i programmering B på Slo
 [Øvelser, eksempler og guides](https://github.com/slotshaven-pro/pro2/)
 
 [Forløb: Webserver med flask](https://github.com/slotshaven-pro/webserver/)
+
+[Forløb: Klasser og objekter (OOP)](https://github.com/slotshaven-pro/oop/)
